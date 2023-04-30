@@ -15,7 +15,7 @@ public class AdminisrarInstituciones {
     private int número_de_alumnos;
     private int número_de_docentes;
     private int número_de_sedes;
-        private double gastos_proyectado_por_estudiante;
+    private double gastos_proyectado_por_estudiante;
             
     private double presupuesto;
 
